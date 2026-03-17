@@ -19,7 +19,7 @@ Letra de la unidad que se desea comprobar (por ejemplo: C, D, E).
 Muestra la información de espacio del disco C.
 
 .NOTES
-Autor: TuNombre
+Autor: Javier Fernández
 Fecha: 2026-03-16
 #>
 
